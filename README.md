@@ -1,9 +1,8 @@
 ## Oii! Eu sou Ian Silva
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanS04&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanS04)](https://github.com/IanS04/github-readme-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanS04&layout=compact)
+
 
 <!--
 **IanS04/IanS04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
