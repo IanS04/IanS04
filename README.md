@@ -1,7 +1,8 @@
 ## Oii! Eu sou Ian Silva
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanS04&show_icons=true&theme=tokyonight)
-<div align= "center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanS04&layout=compact)</div>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IanS04&show_icons=true&count_private=true&hide_border=true&title_color=9042EA&icon_color=9546EF&text_color=DBD9D8&bg_color=0d1117" alt="IanS04 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanS04&layout=compact&hide_border=true&title_color=9042EA&text_color=DBD9D8&bg_color=0d1117" />
+</div>
 
 
 <!--
