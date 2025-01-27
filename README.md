@@ -1,7 +1,7 @@
 ## Oii! Eu sou Ian Silva
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanS04&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanS04&layout=compact border_radius=45)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanS04&layout=compact)
 
 
 <!--
