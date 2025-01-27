@@ -1,6 +1,6 @@
 ## Oii! Eu sou Ian Silva
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanS04&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanS04&show_icons=true&theme=tokyonight)
 
 
 <!--
