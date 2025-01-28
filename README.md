@@ -9,7 +9,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/IanS04/IanS04/blob/output/github-contribution-grid-snake.gif)
 <!--
 **IanS04/IanS04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
