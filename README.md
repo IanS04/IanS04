@@ -1,6 +1,6 @@
 ## Oii! Eu sou Ian Silva
-- 🔭 Atualmente sou estagiario numa equipe de suporte.
-- 🌱 Atualmente estou aprendendo Javascript.
+- 🔭 Atualmente estou buscando emprego.
+- 🌱 Atualmente estou aprendendo Java.
 - 😄 Pronomes: ele/dele.
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IanS04&show_icons=true&count_private=true&hide_border=true&title_color=9042EA&icon_color=9546EF&text_color=DBD9D8&bg_color=0d1117" alt="IanS04 github stats" /> 
