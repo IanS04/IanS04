@@ -1,6 +1,6 @@
 ## Oii! Eu sou Ian Silva
 - 🔭 Atualmente estou buscando emprego.
-- 🌱 Atualmente estou aprendendo Java.
+- 🌱 Atualmente estou aprendendo Flutter.
 - 😄 Pronomes: ele/dele.
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IanS04&show_icons=true&count_private=true&hide_border=true&title_color=9042EA&icon_color=9546EF&text_color=DBD9D8&bg_color=0d1117" alt="IanS04 github stats" /> 
@@ -10,6 +10,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
 </div>
 
 <br>![snake gif](https://github.com/IanS04/IanS04/blob/output/github-contribution-grid-snake.gif)
